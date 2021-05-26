@@ -1,0 +1,112 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color:whitesmoke;
+    }
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 50px;
+    margin: 0;
+    padding: 0;
+    
+    background-color: #1a73e9;
+    color:white;
+}
+
+.menu{
+    margin: 10px 20px ;
+    width: 25px;
+    float: left;
+    background-color: #1a73ea;
+}
+
+.imagens{
+    margin: 15px;
+    float: left;
+    background-color: #1a73ea;
+}
+
+.lupa{
+    margin: 10px 20px;
+    width: 25px;
+    float: right;
+    background-color: #1a73ea;
+
+}
+.lista{
+    margin: 9px 10px;
+    float: right;
+    background-color: #1a73ea;
+}
+
+.pontos{
+    margin: 9px 13px;
+    float:right;
+    background-color: #1a73ea;
+}
+
+.borda{
+    border-bottom: rgba(180, 177, 177, 0.767) 1px solid;
+    height: 65px;
+}
+
+.txt{
+    margin: 35px 25px;
+    float:right;
+    
+    
+}
+
+.expandir{
+    width: 25px;
+    margin: 32px 20px;
+    float: right;
+    
+}
+.arquivos{
+    margin: 30px 10px;
+    padding: 100px 40px;
+    
+    
+}
+
+
+
+.palavra{
+    margin: -20px;
+    position: relative;
+}
+
+.todos{
+    border: rgba(128, 128, 128, 0.555) 1px ridge;
+    background-color: white;
+    width: 210px;
+    height: 50px;
+    line-height: 35px;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 25px;
+ 
+}
+.todos img{
+    float: left;
+    width: 32px;
+    background-color: white;
+    margin-top: 8px;
+    margin-left: 15px;
+    
+}
+
+.todos h3{
+    float: left;
+    margin-left: 15px;
+    font-size: 18px;
+    background-color: white;
+    line-height: 50px;
+    font-weight: normal;
+}
+
