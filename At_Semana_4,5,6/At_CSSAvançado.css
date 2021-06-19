@@ -1,0 +1,341 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+@media ( min-width: 500px){
+.preto{
+    background-color: #4c4c4c;
+    width: auto;
+    height: 70px;
+   
+}
+
+.Pbloco1{
+    
+    background-color:  #5d5d5d;
+    float: left;
+    margin: 20px;
+    width: 150px;
+    height: 30px;
+}
+
+.Pbloco2{
+    background-color:  #5d5d5d;
+    float: right;
+    width: 70px;
+    height: 30px;
+    margin: 20px;
+}
+
+.Pbloco3{
+    background-color:  #5d5d5d;
+    float: right;
+    width: 120px;
+    height: 30px;
+    margin: 20px ;
+}
+
+.Pbloco4{
+    background-color:  #5d5d5d;
+    float: right;
+    width:  100px ;
+    height: 30px;
+    margin: 20px;
+}
+
+
+.azul{
+    background-color: #e1f2fa ;
+    float: left;
+    margin-right: 0px;
+    margin-top: 10px;
+   
+    height: 300px;
+    width: 385px;
+}
+
+.Abloco1{
+    background-color:  #a4d4e8;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    height: 60px;
+    width: 300px;
+}
+
+.Abloco2{
+    background-color:  #a4d4e8;
+    float: left;
+    margin-top: 2px;
+    margin-left: 20px;
+    height: 30px; 
+    width: 300px;
+}
+
+.Abloco3{
+    background-color: #a4d4e8;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 30px;
+    width: 200px;
+}
+
+.Abloco4{
+    background-color: #b3e7f2;
+    float: left;
+    clear: both;
+    height: 60px;
+    width: 150px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.amarelo{
+    background-color:  #fcebbd ;
+    float: right;  
+    height: 300px;
+    width: 275px;
+    margin-top: 10px;
+    margin-left: 0px;
+   
+
+}
+
+.Mbloco1{
+    background-color: #fef8d4;
+    float: left;
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+   
+   
+}
+
+.Mbloco2{
+    background-color: #fef8d4;
+    float: right;
+    margin-top: 10px;
+    width: 120px;
+    height: 120px;
+   
+}
+
+.Mbloco3{
+    background-color: #e5ce87;
+    margin-left: 10px;
+    float: left;
+    width: 265px;
+    height: 20px;
+}
+
+.Mbloco4{
+    background-color: #e5ce87;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 210px;
+    height: 20px;
+}
+
+.cinza{
+    background-color: #f4f4f4;
+    float: left;
+    margin-top: 10px;
+    width: 385px;
+    height: 150px ; 
+}
+
+.Cbloco1{
+    background-color: #cecece;
+    float: left;
+    margin-top: 90px;
+    margin-left: 10px;
+    width: 300px;
+    height: 20px;
+}
+
+.Cbloco2{
+    background-color: #cecece;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 250px;
+    height: 20px;
+}
+
+.transparente{
+    
+    width: 385px;
+    height: 100px;
+    margin-top:  10px;
+   
+}
+
+.Tbloco1{
+    background-color: #f5aba1 ;
+    width: 80px;
+    height: 30px;
+    float: right;
+    margin-top: 10px;
+
+}
+
+.Tbloco2{
+    background-color: #f5aba1;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 80px;
+    height: 30px;
+}
+
+.branco{
+    background-color:#f4f4f4 ;
+    float: right;
+    margin-top: 10px;
+    width: 275px;
+    height: 250px;
+}
+
+.Bbloco1{
+    background-color: #cfcfcf ;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+    width: 200px;
+    height: 20px;
+}
+
+.Bbloco2{
+    background-color:  #ffffff ;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 250px ;
+    height: 40px;
+}
+
+.Bbloco3{
+    background-color: #cfcfcf ;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 200px;
+    height: 20px;
+}
+
+.Bbloco4{
+    background-color:  #ffffff ;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 250px ;
+    height: 40px;
+}
+
+.Bbloco5{
+    background-color: #d3eda3;
+    float: right;
+    margin-right: 20px;
+    margin-top: 15px;
+    width: 100px;
+    height: 40px ;
+}
+}
+
+@media (min-width: 1000px){
+
+   .cinza{
+       clear: both;
+       width: 60%;
+   }
+
+   .Cbloco1{
+       width: 80%;
+   }
+
+   .Cbloco2{
+       width: 50%;
+   }
+
+   .azul{
+       width:60% ;
+   }
+
+   .Abloco1,.Abloco2{
+       width: 70%;
+   }
+
+   .Abloco3{
+    width: 50%;
+   }
+
+   .Abloco4{
+       width: 30%;
+   }
+
+
+   .amarelo{
+       width: 39%;
+   }
+
+   .Mbloco1,.Mbloco2{
+       width: 40%;
+       height: 50%;
+       margin-top: 20px;
+       margin-left: 20px;
+       margin-right: 20px;
+      
+   }
+
+   .Mbloco3{
+       width: 90%;
+        margin-top: 15px;
+        margin-left: 20px;
+    
+   }
+
+   .Mbloco4{
+       width: 60%;
+       margin-left: 20px;
+   }
+
+   
+   .transparente{
+    width: 60%;
+   }
+
+   .Tbloco1,.Tbloco2{
+       width: 20%;
+   }
+
+   .branco{
+    width: 39%;
+   }
+
+   .Bbloco1,.Bbloco3{
+       width: 60%;
+   }
+   
+    .Bbloco2,.Bbloco4{
+        width: 40%;
+    }
+
+    .Bbloco5{
+        width: 30%;
+        margin-top: 10%;
+    }
+
+ }
+
+ 
+
+
+
+    
+
+
