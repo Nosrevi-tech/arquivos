@@ -1,6 +1,6 @@
 var btn = document.querySelector("#btn");
 var cidade;
-var chave = 'f5c89a07572f823dbe8fe7abb98a60de'; //parte destina a colocar a sua chave 
+var chave = ; //parte destina a colocar a sua chave 
 btn.onclick = function () {
   /*
   Esse bloco de código só é executado
